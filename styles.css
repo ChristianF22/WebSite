@@ -99,6 +99,10 @@ section.module.parallax-3{
   background-image: url("https://images.unsplash.com/photo-1558981001-5864b3250a69?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80");
 }
 
+section.module.parallax-4{
+  background-image: url("https://i.pinimg.com/originals/8e/1f/d6/8e1fd606540e1542cb8ffe1bf2bb0803.jpg");
+}
+
 section.module.parallax h1{
   color: #FFF;
   text-align: center;
@@ -247,6 +251,18 @@ a {
   }
 } 
 
+/*Footer*/
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 12px;
+  text-align: center;
+}
+
+.footer-info p {
+  margin-top: 20px;
+  color: white ;
+}
 /* Animate Background Image */
 
 @-webkit-keyframes aitf {
