@@ -172,7 +172,7 @@ a {
   }
   
   a:hover {
-    opacity: 0.7;
+    color: rgb(214, 103, 38);
   }
   
   .logo {
